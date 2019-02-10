@@ -1,0 +1,11 @@
+D:\practice\testproj\myApp\bin\Release\netcoreapp2.1\myApp.deps.json
+D:\practice\testproj\myApp\bin\Release\netcoreapp2.1\myApp.runtimeconfig.json
+D:\practice\testproj\myApp\bin\Release\netcoreapp2.1\myApp.runtimeconfig.dev.json
+D:\practice\testproj\myApp\bin\Release\netcoreapp2.1\myApp.dll
+D:\practice\testproj\myApp\bin\Release\netcoreapp2.1\myApp.pdb
+D:\practice\testproj\myApp\obj\Release\netcoreapp2.1\myApp.csprojAssemblyReference.cache
+D:\practice\testproj\myApp\obj\Release\netcoreapp2.1\myApp.csproj.CoreCompileInputs.cache
+D:\practice\testproj\myApp\obj\Release\netcoreapp2.1\myApp.AssemblyInfoInputs.cache
+D:\practice\testproj\myApp\obj\Release\netcoreapp2.1\myApp.AssemblyInfo.cs
+D:\practice\testproj\myApp\obj\Release\netcoreapp2.1\myApp.dll
+D:\practice\testproj\myApp\obj\Release\netcoreapp2.1\myApp.pdb
